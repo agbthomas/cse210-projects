@@ -1,0 +1,3 @@
+Date,Prompt,Response
+09/03/2024 14:59:04,What was the strongest emotion i felt today?,love
+09/03/2024 14:59:25,If i had one thing I could do over today, what would it be,i would eat again
